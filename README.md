@@ -281,6 +281,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [TypeNetwork](https://www.typenetwork.com/)
 - [Discover.typography](https://discover.typography.com/)
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
+- [Cufon Fonts](https://www.cufonfonts.com/)
 
 ## Icon/Logo :tada:
 
