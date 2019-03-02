@@ -256,6 +256,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Typewolf](https://www.typewolf.com/)
 - [Type Novel](http://typenovel.tumblr.com/)
 - [FONTS IN USE](https://fontsinuse.com/)
+- [CufonFonts.com](https://www.cufonfonts.com)
 - [Webtype](https://www.webtype.com/)
 - [My Fonts](http://www.myfonts.com/)
 - [The Designers Foundry](https://www.thedesignersfoundry.com/)
